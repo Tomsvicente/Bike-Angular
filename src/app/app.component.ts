@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ImageGalleryComponent } from './componentes/image-gallery/image-gallery.component';
 
 @Component({
   selector: 'app-root',
